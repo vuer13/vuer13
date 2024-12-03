@@ -1,4 +1,6 @@
-👋 Hi, I’m Ryan. I am a second year computer science and statistics student at UBC. Right here, you can find all the projects I have created. Have fun!
+### 👋 Hi, I’m Ryan. 
+
+I am a second year computer science and statistics student at UBC. Right here, you can find all the projects I have created. Have fun!
 
 <!---
 vuer13/vuer13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
