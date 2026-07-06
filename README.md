@@ -1,12 +1,12 @@
-### 👋 Hi, I’m Ryan.
+# 👋 Hi, I’m Ryan.
 
 I’m a fourth-year Computer Science and Statistics student at UBC.
 
-#### Interests
+### Interests
 
 I love learning about machine learning, artificial intelligence, and data science. My interest comes from how quickly these fields are growing and how they can be applied across many areas, including sports and medicine.
 
-#### Contact
+### Contact
 **Email**: ryanvu1131@gmail.com
 
 Below are all of my favourite projects. Feel free to drop a message! Always opening to connecting and talking.
