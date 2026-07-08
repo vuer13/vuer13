@@ -9,7 +9,7 @@ I love learning about machine learning, artificial intelligence, and data scienc
 ### Contact
 **Email**: ryanvu1131@gmail.com
 
-[**Website**](ryan-vu-portfolio.vercel.app)
+**Live Website:** [View my portfolio](https://ryan-vu-portfolio.vercel.app)
 
 Below are all of my favourite projects. Feel free to drop a message! Always opening to connecting and talking.
 
